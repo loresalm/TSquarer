@@ -1,0 +1,10 @@
+{
+  "img_w": 2340,
+  "draw_curve": false,
+  "grid_w": 20,
+  "grid_h": 15,
+  "img_h": 1755,
+  "nb_iter": 5,
+  "grid_size": 117,
+  "size_center_square": 40
+}
