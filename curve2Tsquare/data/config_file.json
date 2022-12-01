@@ -1,10 +1,10 @@
 {
-  "img_w": 2340,
+  "img_w": 2225,
   "draw_curve": false,
-  "grid_w": 20,
-  "grid_h": 15,
-  "img_h": 1755,
-  "nb_iter": 5,
-  "grid_size": 117,
-  "size_center_square": 40
+  "grid_w": 25,
+  "grid_h": 7,
+  "img_h": 623,
+  "nb_iter": 6,
+  "grid_size": 89,
+  "size_center_square": 30
 }

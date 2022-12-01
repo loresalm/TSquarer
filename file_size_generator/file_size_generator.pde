@@ -3,13 +3,13 @@
 //---------------------------------------------------
 // choose your parameters 
 // size of the center square 
-int size_center_square = 40;
+int size_center_square = 30;
 // number of step from the center square 
-int nb_iter = 5; 
+int nb_iter = 6; 
 // number of columns of the grid 
-int grid_w =  20; 
+int grid_w =  25; 
 // number of row of the grid 
-int grid_h =  15; 
+int grid_h =  7; 
 // true if you want draw the curve
 Boolean draw_curve = false;
 //---------------------------------------------------

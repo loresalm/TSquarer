@@ -29,7 +29,7 @@ void setup()
 {
  
   //!! change sizes according to the generator 
-  size(2340, 1755, PDF, "../output/out.pdf");
+  size(2225, 623, PDF, "../output/out.pdf");
   rectMode(CENTER);
   background(255);
   
